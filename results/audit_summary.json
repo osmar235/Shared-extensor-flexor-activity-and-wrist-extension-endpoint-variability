@@ -1,0 +1,7 @@
+{
+  "files_found": 29,
+  "runs_examined": 3,
+  "runs_ok": 3,
+  "pilot": true,
+  "note": "Pilot uses trial Fourier coherence, not wavelet coherence; no claim of physiology or publication-ready inference."
+}

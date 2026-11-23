@@ -1,0 +1,8 @@
+DATA/
+RESULTS_COMMON_DRIVE45/
+RESULTS_FINAL_MOTION45/
+__pycache__/
+.venv/
+*.edf
+*.fif
+.DS_Store

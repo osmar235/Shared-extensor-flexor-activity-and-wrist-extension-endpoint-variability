@@ -1,0 +1,1 @@
+The instrumental QC mask used for upstream EMG processing is available in PAPER1_COMMON_DRIVE45_PACKAGE.zip, but is not embedded in this lightweight package. For complete reproduction, obtain the exact mask from that archive. Do not attempt to substitute a newly defined mask without documentation.

@@ -1,0 +1,4 @@
+predictor,outcome,n_subjects,rho_spearman,p_two_sided,p_holm_three_tests
+envelope_corr_median,endpoint_variability_normalized,45,0.18418972332015807,0.2258155863063051,0.4516311726126102
+emg_emg_beta_delta,endpoint_variability_normalized,45,0.18300395256916993,0.2288696240237818,0.4516311726126102
+unrectified_zero_lag_corr_abs_median,endpoint_variability_normalized,45,0.25494071146245056,0.09100420384763173,0.2730126115428952

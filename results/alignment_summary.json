@@ -1,0 +1,8 @@
+{
+  "n_subjects_requested": 45,
+  "runs_checked": 448,
+  "runs_passed": 357,
+  "n_failed": 91,
+  "n_matched": 1428,
+  "warning": "Not target accuracy. Direction-matched per-run endpoint dispersion (encoder units) only. Reject unreliable synchronization."
+}

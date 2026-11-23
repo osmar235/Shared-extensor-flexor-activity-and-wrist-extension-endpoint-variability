@@ -1,0 +1,7 @@
+{
+  "n_subjects": 45,
+  "n_runs": 357,
+  "primary": "Three subject-level extension correlations, Holm-adjusted",
+  "secondary": "Within-participant de-meaned run-level regression, clustered SE",
+  "crucial": "Endpoint DISPERSION around per-run direction median, not actual target error; no causal attribution."
+}

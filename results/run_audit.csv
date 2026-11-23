@@ -1,0 +1,4 @@
+file,status,native_fs,seconds,event_count,counts,warnings
+DATA\sub-01\sub-01\eeg\sub-01_task-WristPointingTask_run-01_eeg.edf,ok,512.0,400.125,40,"{""flexion"": 10, ""extension"": 10, ""radial"": 10, ""ulnar"": 10}",
+DATA\sub-01\sub-01\eeg\sub-01_task-WristPointingTask_run-03_eeg.edf,ok,512.0,400.109375,40,"{""flexion"": 10, ""extension"": 10, ""radial"": 10, ""ulnar"": 10}",
+DATA\sub-01\sub-01\eeg\sub-01_task-WristPointingTask_run-04_eeg.edf,ok,512.0,400.109375,40,"{""flexion"": 10, ""extension"": 10, ""radial"": 10, ""ulnar"": 10}",
